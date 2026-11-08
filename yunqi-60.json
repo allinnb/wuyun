@@ -1,0 +1,4447 @@
+{
+ "note": "运气年自上一年大寒起算；公历年 Y 的干支序号 = (Y-4) mod 60，大寒前的日期归上一运气年。主运客运未标太少。",
+ "years": [
+  {
+   "index": 0,
+   "ganzhi": "甲子",
+   "suiyun": "土运太过",
+   "sitian": "少阴君火",
+   "zaiquan": "阳明燥金",
+   "relation": "顺化",
+   "tags": [],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "土",
+    "金",
+    "水",
+    "木",
+    "火"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "厥阴风木",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "少阴君火",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "太阴湿土",
+     "same": true
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "少阳相火",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "阳明燥金",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "ganzhi": "乙丑",
+   "suiyun": "金运不及",
+   "sitian": "太阴湿土",
+   "zaiquan": "太阳寒水",
+   "relation": "顺化",
+   "tags": [],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "金",
+    "水",
+    "木",
+    "火",
+    "土"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "厥阴风木",
+     "same": true
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "少阴君火",
+     "same": true
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "太阴湿土",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "少阳相火",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "阳明燥金",
+     "same": true
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "太阳寒水",
+     "same": true
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "ganzhi": "丙寅",
+   "suiyun": "水运太过",
+   "sitian": "少阳相火",
+   "zaiquan": "厥阴风木",
+   "relation": "不和",
+   "tags": [],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "水",
+    "木",
+    "火",
+    "土",
+    "金"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "少阴君火",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "太阴湿土",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "少阳相火",
+     "same": true
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "阳明燥金",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "厥阴风木",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "ganzhi": "丁卯",
+   "suiyun": "木运不及",
+   "sitian": "阳明燥金",
+   "zaiquan": "少阴君火",
+   "relation": "天刑",
+   "tags": [
+    "岁会"
+   ],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "太阴湿土",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "少阳相火",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "阳明燥金",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "厥阴风木",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "少阴君火",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "ganzhi": "戊辰",
+   "suiyun": "火运太过",
+   "sitian": "太阳寒水",
+   "zaiquan": "太阴湿土",
+   "relation": "天刑",
+   "tags": [],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "火",
+    "土",
+    "金",
+    "水",
+    "木"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "少阳相火",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "阳明燥金",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "厥阴风木",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "少阴君火",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "太阴湿土",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "ganzhi": "己巳",
+   "suiyun": "土运不及",
+   "sitian": "厥阴风木",
+   "zaiquan": "少阳相火",
+   "relation": "天刑",
+   "tags": [],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "土",
+    "金",
+    "水",
+    "木",
+    "火"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "阳明燥金",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "厥阴风木",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "少阴君火",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "太阴湿土",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "少阳相火",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "ganzhi": "庚午",
+   "suiyun": "金运太过",
+   "sitian": "少阴君火",
+   "zaiquan": "阳明燥金",
+   "relation": "天刑",
+   "tags": [
+    "同天符"
+   ],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "金",
+    "水",
+    "木",
+    "火",
+    "土"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "厥阴风木",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "少阴君火",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "太阴湿土",
+     "same": true
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "少阳相火",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "阳明燥金",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "ganzhi": "辛未",
+   "suiyun": "水运不及",
+   "sitian": "太阴湿土",
+   "zaiquan": "太阳寒水",
+   "relation": "天刑",
+   "tags": [
+    "同岁会"
+   ],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "水",
+    "木",
+    "火",
+    "土",
+    "金"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "厥阴风木",
+     "same": true
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "少阴君火",
+     "same": true
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "太阴湿土",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "少阳相火",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "阳明燥金",
+     "same": true
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "太阳寒水",
+     "same": true
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "ganzhi": "壬申",
+   "suiyun": "木运太过",
+   "sitian": "少阳相火",
+   "zaiquan": "厥阴风木",
+   "relation": "小逆",
+   "tags": [
+    "同天符"
+   ],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "少阴君火",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "太阴湿土",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "少阳相火",
+     "same": true
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "阳明燥金",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "厥阴风木",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "ganzhi": "癸酉",
+   "suiyun": "火运不及",
+   "sitian": "阳明燥金",
+   "zaiquan": "少阴君火",
+   "relation": "不和",
+   "tags": [
+    "同岁会"
+   ],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "火",
+    "土",
+    "金",
+    "水",
+    "木"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "太阴湿土",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "少阳相火",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "阳明燥金",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "厥阴风木",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "少阴君火",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "ganzhi": "甲戌",
+   "suiyun": "土运太过",
+   "sitian": "太阳寒水",
+   "zaiquan": "太阴湿土",
+   "relation": "不和",
+   "tags": [
+    "岁会",
+    "同天符"
+   ],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "土",
+    "金",
+    "水",
+    "木",
+    "火"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "少阳相火",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "阳明燥金",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "厥阴风木",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "少阴君火",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "太阴湿土",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "ganzhi": "乙亥",
+   "suiyun": "金运不及",
+   "sitian": "厥阴风木",
+   "zaiquan": "少阳相火",
+   "relation": "不和",
+   "tags": [],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "金",
+    "水",
+    "木",
+    "火",
+    "土"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "阳明燥金",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "厥阴风木",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "少阴君火",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "太阴湿土",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "少阳相火",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "ganzhi": "丙子",
+   "suiyun": "水运太过",
+   "sitian": "少阴君火",
+   "zaiquan": "阳明燥金",
+   "relation": "不和",
+   "tags": [
+    "岁会"
+   ],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "水",
+    "木",
+    "火",
+    "土",
+    "金"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "厥阴风木",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "少阴君火",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "太阴湿土",
+     "same": true
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "少阳相火",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "阳明燥金",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "ganzhi": "丁丑",
+   "suiyun": "木运不及",
+   "sitian": "太阴湿土",
+   "zaiquan": "太阳寒水",
+   "relation": "不和",
+   "tags": [],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "厥阴风木",
+     "same": true
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "少阴君火",
+     "same": true
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "太阴湿土",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "少阳相火",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "阳明燥金",
+     "same": true
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "太阳寒水",
+     "same": true
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "ganzhi": "戊寅",
+   "suiyun": "火运太过",
+   "sitian": "少阳相火",
+   "zaiquan": "厥阴风木",
+   "relation": "天符",
+   "tags": [
+    "天符"
+   ],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "火",
+    "土",
+    "金",
+    "水",
+    "木"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "少阴君火",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "太阴湿土",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "少阳相火",
+     "same": true
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "阳明燥金",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "厥阴风木",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "ganzhi": "己卯",
+   "suiyun": "土运不及",
+   "sitian": "阳明燥金",
+   "zaiquan": "少阴君火",
+   "relation": "小逆",
+   "tags": [],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "土",
+    "金",
+    "水",
+    "木",
+    "火"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "太阴湿土",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "少阳相火",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "阳明燥金",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "厥阴风木",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "少阴君火",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "ganzhi": "庚辰",
+   "suiyun": "金运太过",
+   "sitian": "太阳寒水",
+   "zaiquan": "太阴湿土",
+   "relation": "小逆",
+   "tags": [],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "金",
+    "水",
+    "木",
+    "火",
+    "土"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "少阳相火",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "阳明燥金",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "厥阴风木",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "少阴君火",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "太阴湿土",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 17,
+   "ganzhi": "辛巳",
+   "suiyun": "水运不及",
+   "sitian": "厥阴风木",
+   "zaiquan": "少阳相火",
+   "relation": "小逆",
+   "tags": [],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "水",
+    "木",
+    "火",
+    "土",
+    "金"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "阳明燥金",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "厥阴风木",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "少阴君火",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "太阴湿土",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "少阳相火",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 18,
+   "ganzhi": "壬午",
+   "suiyun": "木运太过",
+   "sitian": "少阴君火",
+   "zaiquan": "阳明燥金",
+   "relation": "小逆",
+   "tags": [],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "厥阴风木",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "少阴君火",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "太阴湿土",
+     "same": true
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "少阳相火",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "阳明燥金",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 19,
+   "ganzhi": "癸未",
+   "suiyun": "火运不及",
+   "sitian": "太阴湿土",
+   "zaiquan": "太阳寒水",
+   "relation": "小逆",
+   "tags": [],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "火",
+    "土",
+    "金",
+    "水",
+    "木"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "厥阴风木",
+     "same": true
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "少阴君火",
+     "same": true
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "太阴湿土",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "少阳相火",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "阳明燥金",
+     "same": true
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "太阳寒水",
+     "same": true
+    }
+   ]
+  },
+  {
+   "index": 20,
+   "ganzhi": "甲申",
+   "suiyun": "土运太过",
+   "sitian": "少阳相火",
+   "zaiquan": "厥阴风木",
+   "relation": "顺化",
+   "tags": [],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "土",
+    "金",
+    "水",
+    "木",
+    "火"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "少阴君火",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "太阴湿土",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "少阳相火",
+     "same": true
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "阳明燥金",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "厥阴风木",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 21,
+   "ganzhi": "乙酉",
+   "suiyun": "金运不及",
+   "sitian": "阳明燥金",
+   "zaiquan": "少阴君火",
+   "relation": "天符",
+   "tags": [
+    "天符",
+    "岁会",
+    "太乙天符"
+   ],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "金",
+    "水",
+    "木",
+    "火",
+    "土"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "太阴湿土",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "少阳相火",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "阳明燥金",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "厥阴风木",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "少阴君火",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 22,
+   "ganzhi": "丙戌",
+   "suiyun": "水运太过",
+   "sitian": "太阳寒水",
+   "zaiquan": "太阴湿土",
+   "relation": "天符",
+   "tags": [
+    "天符"
+   ],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "水",
+    "木",
+    "火",
+    "土",
+    "金"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "少阳相火",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "阳明燥金",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "厥阴风木",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "少阴君火",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "太阴湿土",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 23,
+   "ganzhi": "丁亥",
+   "suiyun": "木运不及",
+   "sitian": "厥阴风木",
+   "zaiquan": "少阳相火",
+   "relation": "天符",
+   "tags": [
+    "天符"
+   ],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "阳明燥金",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "厥阴风木",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "少阴君火",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "太阴湿土",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "少阳相火",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 24,
+   "ganzhi": "戊子",
+   "suiyun": "火运太过",
+   "sitian": "少阴君火",
+   "zaiquan": "阳明燥金",
+   "relation": "天符",
+   "tags": [
+    "天符"
+   ],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "火",
+    "土",
+    "金",
+    "水",
+    "木"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "厥阴风木",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "少阴君火",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "太阴湿土",
+     "same": true
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "少阳相火",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "阳明燥金",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 25,
+   "ganzhi": "己丑",
+   "suiyun": "土运不及",
+   "sitian": "太阴湿土",
+   "zaiquan": "太阳寒水",
+   "relation": "天符",
+   "tags": [
+    "天符",
+    "岁会",
+    "太乙天符"
+   ],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "土",
+    "金",
+    "水",
+    "木",
+    "火"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "厥阴风木",
+     "same": true
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "少阴君火",
+     "same": true
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "太阴湿土",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "少阳相火",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "阳明燥金",
+     "same": true
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "太阳寒水",
+     "same": true
+    }
+   ]
+  },
+  {
+   "index": 26,
+   "ganzhi": "庚寅",
+   "suiyun": "金运太过",
+   "sitian": "少阳相火",
+   "zaiquan": "厥阴风木",
+   "relation": "天刑",
+   "tags": [],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "金",
+    "水",
+    "木",
+    "火",
+    "土"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "少阴君火",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "太阴湿土",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "少阳相火",
+     "same": true
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "阳明燥金",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "厥阴风木",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 27,
+   "ganzhi": "辛卯",
+   "suiyun": "水运不及",
+   "sitian": "阳明燥金",
+   "zaiquan": "少阴君火",
+   "relation": "顺化",
+   "tags": [],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "水",
+    "木",
+    "火",
+    "土",
+    "金"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "太阴湿土",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "少阳相火",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "阳明燥金",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "厥阴风木",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "少阴君火",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 28,
+   "ganzhi": "壬辰",
+   "suiyun": "木运太过",
+   "sitian": "太阳寒水",
+   "zaiquan": "太阴湿土",
+   "relation": "顺化",
+   "tags": [],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "少阳相火",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "阳明燥金",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "厥阴风木",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "少阴君火",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "太阴湿土",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 29,
+   "ganzhi": "癸巳",
+   "suiyun": "火运不及",
+   "sitian": "厥阴风木",
+   "zaiquan": "少阳相火",
+   "relation": "顺化",
+   "tags": [
+    "同岁会"
+   ],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "火",
+    "土",
+    "金",
+    "水",
+    "木"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "阳明燥金",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "厥阴风木",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "少阴君火",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "太阴湿土",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "少阳相火",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 30,
+   "ganzhi": "甲午",
+   "suiyun": "土运太过",
+   "sitian": "少阴君火",
+   "zaiquan": "阳明燥金",
+   "relation": "顺化",
+   "tags": [],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "土",
+    "金",
+    "水",
+    "木",
+    "火"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "厥阴风木",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "少阴君火",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "太阴湿土",
+     "same": true
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "少阳相火",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "阳明燥金",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 31,
+   "ganzhi": "乙未",
+   "suiyun": "金运不及",
+   "sitian": "太阴湿土",
+   "zaiquan": "太阳寒水",
+   "relation": "顺化",
+   "tags": [],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "金",
+    "水",
+    "木",
+    "火",
+    "土"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "厥阴风木",
+     "same": true
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "少阴君火",
+     "same": true
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "太阴湿土",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "少阳相火",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "阳明燥金",
+     "same": true
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "太阳寒水",
+     "same": true
+    }
+   ]
+  },
+  {
+   "index": 32,
+   "ganzhi": "丙申",
+   "suiyun": "水运太过",
+   "sitian": "少阳相火",
+   "zaiquan": "厥阴风木",
+   "relation": "不和",
+   "tags": [],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "水",
+    "木",
+    "火",
+    "土",
+    "金"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "少阴君火",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "太阴湿土",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "少阳相火",
+     "same": true
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "阳明燥金",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "厥阴风木",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 33,
+   "ganzhi": "丁酉",
+   "suiyun": "木运不及",
+   "sitian": "阳明燥金",
+   "zaiquan": "少阴君火",
+   "relation": "天刑",
+   "tags": [],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "太阴湿土",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "少阳相火",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "阳明燥金",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "厥阴风木",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "少阴君火",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 34,
+   "ganzhi": "戊戌",
+   "suiyun": "火运太过",
+   "sitian": "太阳寒水",
+   "zaiquan": "太阴湿土",
+   "relation": "天刑",
+   "tags": [],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "火",
+    "土",
+    "金",
+    "水",
+    "木"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "少阳相火",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "阳明燥金",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "厥阴风木",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "少阴君火",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "太阴湿土",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 35,
+   "ganzhi": "己亥",
+   "suiyun": "土运不及",
+   "sitian": "厥阴风木",
+   "zaiquan": "少阳相火",
+   "relation": "天刑",
+   "tags": [],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "土",
+    "金",
+    "水",
+    "木",
+    "火"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "阳明燥金",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "厥阴风木",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "少阴君火",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "太阴湿土",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "少阳相火",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 36,
+   "ganzhi": "庚子",
+   "suiyun": "金运太过",
+   "sitian": "少阴君火",
+   "zaiquan": "阳明燥金",
+   "relation": "天刑",
+   "tags": [
+    "同天符"
+   ],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "金",
+    "水",
+    "木",
+    "火",
+    "土"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "厥阴风木",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "少阴君火",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "太阴湿土",
+     "same": true
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "少阳相火",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "阳明燥金",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 37,
+   "ganzhi": "辛丑",
+   "suiyun": "水运不及",
+   "sitian": "太阴湿土",
+   "zaiquan": "太阳寒水",
+   "relation": "天刑",
+   "tags": [
+    "同岁会"
+   ],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "水",
+    "木",
+    "火",
+    "土",
+    "金"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "厥阴风木",
+     "same": true
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "少阴君火",
+     "same": true
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "太阴湿土",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "少阳相火",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "阳明燥金",
+     "same": true
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "太阳寒水",
+     "same": true
+    }
+   ]
+  },
+  {
+   "index": 38,
+   "ganzhi": "壬寅",
+   "suiyun": "木运太过",
+   "sitian": "少阳相火",
+   "zaiquan": "厥阴风木",
+   "relation": "小逆",
+   "tags": [
+    "同天符"
+   ],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "少阴君火",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "太阴湿土",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "少阳相火",
+     "same": true
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "阳明燥金",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "厥阴风木",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 39,
+   "ganzhi": "癸卯",
+   "suiyun": "火运不及",
+   "sitian": "阳明燥金",
+   "zaiquan": "少阴君火",
+   "relation": "不和",
+   "tags": [
+    "同岁会"
+   ],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "火",
+    "土",
+    "金",
+    "水",
+    "木"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "太阴湿土",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "少阳相火",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "阳明燥金",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "厥阴风木",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "少阴君火",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 40,
+   "ganzhi": "甲辰",
+   "suiyun": "土运太过",
+   "sitian": "太阳寒水",
+   "zaiquan": "太阴湿土",
+   "relation": "不和",
+   "tags": [
+    "岁会",
+    "同天符"
+   ],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "土",
+    "金",
+    "水",
+    "木",
+    "火"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "少阳相火",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "阳明燥金",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "厥阴风木",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "少阴君火",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "太阴湿土",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 41,
+   "ganzhi": "乙巳",
+   "suiyun": "金运不及",
+   "sitian": "厥阴风木",
+   "zaiquan": "少阳相火",
+   "relation": "不和",
+   "tags": [],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "金",
+    "水",
+    "木",
+    "火",
+    "土"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "阳明燥金",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "厥阴风木",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "少阴君火",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "太阴湿土",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "少阳相火",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 42,
+   "ganzhi": "丙午",
+   "suiyun": "水运太过",
+   "sitian": "少阴君火",
+   "zaiquan": "阳明燥金",
+   "relation": "不和",
+   "tags": [],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "水",
+    "木",
+    "火",
+    "土",
+    "金"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "厥阴风木",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "少阴君火",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "太阴湿土",
+     "same": true
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "少阳相火",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "阳明燥金",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 43,
+   "ganzhi": "丁未",
+   "suiyun": "木运不及",
+   "sitian": "太阴湿土",
+   "zaiquan": "太阳寒水",
+   "relation": "不和",
+   "tags": [],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "厥阴风木",
+     "same": true
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "少阴君火",
+     "same": true
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "太阴湿土",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "少阳相火",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "阳明燥金",
+     "same": true
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "太阳寒水",
+     "same": true
+    }
+   ]
+  },
+  {
+   "index": 44,
+   "ganzhi": "戊申",
+   "suiyun": "火运太过",
+   "sitian": "少阳相火",
+   "zaiquan": "厥阴风木",
+   "relation": "天符",
+   "tags": [
+    "天符"
+   ],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "火",
+    "土",
+    "金",
+    "水",
+    "木"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "少阴君火",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "太阴湿土",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "少阳相火",
+     "same": true
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "阳明燥金",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "厥阴风木",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 45,
+   "ganzhi": "己酉",
+   "suiyun": "土运不及",
+   "sitian": "阳明燥金",
+   "zaiquan": "少阴君火",
+   "relation": "小逆",
+   "tags": [],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "土",
+    "金",
+    "水",
+    "木",
+    "火"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "太阴湿土",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "少阳相火",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "阳明燥金",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "厥阴风木",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "少阴君火",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 46,
+   "ganzhi": "庚戌",
+   "suiyun": "金运太过",
+   "sitian": "太阳寒水",
+   "zaiquan": "太阴湿土",
+   "relation": "小逆",
+   "tags": [],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "金",
+    "水",
+    "木",
+    "火",
+    "土"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "少阳相火",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "阳明燥金",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "厥阴风木",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "少阴君火",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "太阴湿土",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 47,
+   "ganzhi": "辛亥",
+   "suiyun": "水运不及",
+   "sitian": "厥阴风木",
+   "zaiquan": "少阳相火",
+   "relation": "小逆",
+   "tags": [],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "水",
+    "木",
+    "火",
+    "土",
+    "金"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "阳明燥金",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "厥阴风木",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "少阴君火",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "太阴湿土",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "少阳相火",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 48,
+   "ganzhi": "壬子",
+   "suiyun": "木运太过",
+   "sitian": "少阴君火",
+   "zaiquan": "阳明燥金",
+   "relation": "小逆",
+   "tags": [],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "厥阴风木",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "少阴君火",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "太阴湿土",
+     "same": true
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "少阳相火",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "阳明燥金",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 49,
+   "ganzhi": "癸丑",
+   "suiyun": "火运不及",
+   "sitian": "太阴湿土",
+   "zaiquan": "太阳寒水",
+   "relation": "小逆",
+   "tags": [],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "火",
+    "土",
+    "金",
+    "水",
+    "木"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "厥阴风木",
+     "same": true
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "少阴君火",
+     "same": true
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "太阴湿土",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "少阳相火",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "阳明燥金",
+     "same": true
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "太阳寒水",
+     "same": true
+    }
+   ]
+  },
+  {
+   "index": 50,
+   "ganzhi": "甲寅",
+   "suiyun": "土运太过",
+   "sitian": "少阳相火",
+   "zaiquan": "厥阴风木",
+   "relation": "顺化",
+   "tags": [],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "土",
+    "金",
+    "水",
+    "木",
+    "火"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "少阴君火",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "太阴湿土",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "少阳相火",
+     "same": true
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "阳明燥金",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "厥阴风木",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 51,
+   "ganzhi": "乙卯",
+   "suiyun": "金运不及",
+   "sitian": "阳明燥金",
+   "zaiquan": "少阴君火",
+   "relation": "天符",
+   "tags": [
+    "天符"
+   ],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "金",
+    "水",
+    "木",
+    "火",
+    "土"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "太阴湿土",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "少阳相火",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "阳明燥金",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "厥阴风木",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "少阴君火",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 52,
+   "ganzhi": "丙辰",
+   "suiyun": "水运太过",
+   "sitian": "太阳寒水",
+   "zaiquan": "太阴湿土",
+   "relation": "天符",
+   "tags": [
+    "天符"
+   ],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "水",
+    "木",
+    "火",
+    "土",
+    "金"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "少阳相火",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "阳明燥金",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "厥阴风木",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "少阴君火",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "太阴湿土",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 53,
+   "ganzhi": "丁巳",
+   "suiyun": "木运不及",
+   "sitian": "厥阴风木",
+   "zaiquan": "少阳相火",
+   "relation": "天符",
+   "tags": [
+    "天符"
+   ],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "阳明燥金",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "厥阴风木",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "少阴君火",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "太阴湿土",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "少阳相火",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 54,
+   "ganzhi": "戊午",
+   "suiyun": "火运太过",
+   "sitian": "少阴君火",
+   "zaiquan": "阳明燥金",
+   "relation": "天符",
+   "tags": [
+    "天符",
+    "岁会",
+    "太乙天符"
+   ],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "火",
+    "土",
+    "金",
+    "水",
+    "木"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "厥阴风木",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "少阴君火",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "太阴湿土",
+     "same": true
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "少阳相火",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "阳明燥金",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 55,
+   "ganzhi": "己未",
+   "suiyun": "土运不及",
+   "sitian": "太阴湿土",
+   "zaiquan": "太阳寒水",
+   "relation": "天符",
+   "tags": [
+    "天符",
+    "岁会",
+    "太乙天符"
+   ],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "土",
+    "金",
+    "水",
+    "木",
+    "火"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "厥阴风木",
+     "same": true
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "少阴君火",
+     "same": true
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "太阴湿土",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "少阳相火",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "阳明燥金",
+     "same": true
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "太阳寒水",
+     "same": true
+    }
+   ]
+  },
+  {
+   "index": 56,
+   "ganzhi": "庚申",
+   "suiyun": "金运太过",
+   "sitian": "少阳相火",
+   "zaiquan": "厥阴风木",
+   "relation": "天刑",
+   "tags": [],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "金",
+    "水",
+    "木",
+    "火",
+    "土"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "少阴君火",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "太阴湿土",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "少阳相火",
+     "same": true
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "阳明燥金",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "厥阴风木",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 57,
+   "ganzhi": "辛酉",
+   "suiyun": "水运不及",
+   "sitian": "阳明燥金",
+   "zaiquan": "少阴君火",
+   "relation": "顺化",
+   "tags": [],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "水",
+    "木",
+    "火",
+    "土",
+    "金"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "太阴湿土",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "少阳相火",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "阳明燥金",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "厥阴风木",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "少阴君火",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 58,
+   "ganzhi": "壬戌",
+   "suiyun": "木运太过",
+   "sitian": "太阳寒水",
+   "zaiquan": "太阴湿土",
+   "relation": "顺化",
+   "tags": [],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "少阳相火",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "阳明燥金",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "厥阴风木",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "少阴君火",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "太阴湿土",
+     "same": false
+    }
+   ]
+  },
+  {
+   "index": 59,
+   "ganzhi": "癸亥",
+   "suiyun": "火运不及",
+   "sitian": "厥阴风木",
+   "zaiquan": "少阳相火",
+   "relation": "顺化",
+   "tags": [
+    "同岁会"
+   ],
+   "zhuyun": [
+    "木",
+    "火",
+    "土",
+    "金",
+    "水"
+   ],
+   "keyun": [
+    "火",
+    "土",
+    "金",
+    "水",
+    "木"
+   ],
+   "steps": [
+    {
+     "step": 1,
+     "from": "大寒",
+     "to": "春分",
+     "zhuqi": "厥阴风木",
+     "keqi": "阳明燥金",
+     "same": false
+    },
+    {
+     "step": 2,
+     "from": "春分",
+     "to": "小满",
+     "zhuqi": "少阴君火",
+     "keqi": "太阳寒水",
+     "same": false
+    },
+    {
+     "step": 3,
+     "from": "小满",
+     "to": "大暑",
+     "zhuqi": "少阳相火",
+     "keqi": "厥阴风木",
+     "same": false
+    },
+    {
+     "step": 4,
+     "from": "大暑",
+     "to": "秋分",
+     "zhuqi": "太阴湿土",
+     "keqi": "少阴君火",
+     "same": false
+    },
+    {
+     "step": 5,
+     "from": "秋分",
+     "to": "小雪",
+     "zhuqi": "阳明燥金",
+     "keqi": "太阴湿土",
+     "same": false
+    },
+    {
+     "step": 6,
+     "from": "小雪",
+     "to": "大寒",
+     "zhuqi": "太阳寒水",
+     "keqi": "少阳相火",
+     "same": false
+    }
+   ]
+  }
+ ]
+}
