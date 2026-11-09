@@ -44,6 +44,13 @@
     if (!m) return null;
     return new Date(Date.UTC(+m[1], +m[2] - 1, +m[3], (m[4] ? +m[4] : 12) - 8, m[5] ? +m[5] : 0));
   }
-  var api = { compute: compute, parseDateParam: parseDateParam };
+  function stepsOf(y) { // 某运气年六步的起止交节时刻（北京时间）
+    var t = table(y), out = [];
+    for (var i = 0; i < 6; i++) out.push({ step: i + 1, stepName: STEP_NAMES[i] + '之气', from: LABEL[BOUNDS[i]] || BOUNDS[i], fromTime: t[BOUNDS[i]].toYmdHms(), to: LABEL[BOUNDS[i + 1]] || BOUNDS[i + 1], toTime: t[BOUNDS[i + 1]].toYmdHms() });
+    return out;
+  }
+  var BRANCH = { '子': '子午', '午': '子午', '丑': '丑未', '未': '丑未', '寅': '寅申', '申': '寅申', '卯': '卯酉', '酉': '卯酉', '辰': '辰戌', '戌': '辰戌', '巳': '巳亥', '亥': '巳亥' };
+  function branchOf(ganzhi) { return ganzhi ? BRANCH[ganzhi.charAt(1)] : null; }
+  var api = { compute: compute, parseDateParam: parseDateParam, stepsOf: stepsOf, branchOf: branchOf };
   if (typeof module !== 'undefined' && module.exports) module.exports = api; else root.WuyunCalc = api;
 })(typeof window !== 'undefined' ? window : globalThis);
